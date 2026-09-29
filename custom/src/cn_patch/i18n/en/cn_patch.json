@@ -1,0 +1,21 @@
+{
+  "activation": {
+    "title": "Device Activation",
+    "description": "Enter activation code to unlock full features",
+    "deviceId": "Device ID",
+    "code": "Activation Code",
+    "codePlaceholder": "Paste activation code...",
+    "copy": "Copy",
+    "activate": "Activate",
+    "activating": "Activating...",
+    "expired": "License expired",
+    "free": "Free",
+    "standard": "Standard",
+    "premium": "Premium"
+  },
+  "modelGate": {
+    "systemControlled": "System Managed",
+    "premiumRequired": "Premium license required",
+    "notAvailable": "Not available in current tier"
+  }
+}

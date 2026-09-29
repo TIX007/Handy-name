@@ -1,0 +1,21 @@
+{
+  "activation": {
+    "title": "设备激活",
+    "description": "请输入激活码以解锁完整功能",
+    "deviceId": "设备 ID",
+    "code": "激活码",
+    "codePlaceholder": "粘贴激活码...",
+    "copy": "复制",
+    "activate": "激活",
+    "activating": "激活中...",
+    "expired": "授权已过期",
+    "free": "免费版",
+    "standard": "标准版",
+    "premium": "旗舰版"
+  },
+  "modelGate": {
+    "systemControlled": "系统管理",
+    "premiumRequired": "需要旗舰版授权",
+    "notAvailable": "当前版本不可用"
+  }
+}
